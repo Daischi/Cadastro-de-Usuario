@@ -41,5 +41,67 @@ Ideal para aplicações que exigem um gerenciamento simples de usuários! 🚀
 - **Vercel**: Para hospedagem rápida e simples do front-end.
 
 ---
+## 📦 **Como Executar Localmente**
+
+### **Requisitos**
+- **Node.js** instalado na máquina.
+- Gerenciador de pacotes **npm** ou **yarn**.
+
+### **Passos para o Front-end**
+
+1. Clone o repositório do projeto:
+   ```bash
+   git clone <URL_DO_REPOSITORIO>
+   ```
+2. Navegue até o diretório do projeto:
+   ```bash
+   cd nome-do-projeto
+   ```
+3. Instale as dependências:
+   ```bash
+   npm install
+   # ou
+   yarn install
+   ```
+4. Inicie o servidor de desenvolvimento:
+   ```bash
+   npm run dev
+   # ou
+   yarn dev
+   ```
+5. Acesse a aplicação no navegador em: [http://localhost:5173](http://localhost:5173).
+
+### **Configuração da API**
+Certifique-se de que a API está rodando localmente ou atualize o endpoint no código do front-end, se necessário ou utilize a API que está sendo rodada pelo Render https://api-cadastro-fn7w.onrender.com
+
+---
+
+## 📂 **Estrutura do Projeto**
+
+A estrutura do projeto é organizada da seguinte forma:
+
+```bash
+projeto/
+├── public/               # Arquivos estáticos (imagens, fontes, etc.)
+├── src/                  # Código-fonte do projeto
+│   ├── components/       # Componentes reutilizáveis
+│   ├── pages/            # Páginas principais da aplicação
+│   ├── services/         # Funções para chamadas à API
+│   └── App.jsx           # Componente principal da aplicação
+├── package.json          # Configuração de dependências do projeto
+└── vite.config.js        # Configuração do Vite (ferramenta de build)
+
+```
+
+---
+
+## 📬 Contato
+
+Se você tiver alguma dúvida ou sugestão, entre em contato:
+
+- **Autor:** Guilherme Poppi
+- **GitHub:** [Daischi](https://github.com/Daischi)
+
+
 
 
