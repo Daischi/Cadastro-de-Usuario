@@ -20,8 +20,9 @@ Ideal para aplicações que exigem um gerenciamento simples de usuários! 🚀
 
 ## 🚀 Demonstração
 
-🌐 Acesse a aplicação online: [Registro de Usuários](https://registro-usuarios-p420i6z56-guilherme-poppi-limas-projects.vercel.app/)  
+🌐 Acesse a aplicação online: [Registro de Usuários](https://registro-usuarios-p420i6z56-guilherme-poppi-limas-projects.vercel.app/) <br>
 <img src="https://github.com/user-attachments/assets/ae2ca02c-f159-40ae-9d85-1dfe49f08537" alt="Exemplo de imagem" width="400" heigth="400"/>
+**<br> Devido ao uso da versão gratuita do Render, a API pode <br> levar cerca de 50 segundos para responder a qualquer requisição. <br>**
 
 
 ---
